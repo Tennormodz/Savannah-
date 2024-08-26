@@ -1,16 +1,16 @@
 /**
 ░█▀▀█ ░█▀▀█ ─█▀▀█ ░█▀▀█ ─█▀▀█ ▀▀█▀▀ ░█─░█ ── ░█▀▄▀█ ░█▀▀▄ 
 ░█▄▄█ ░█▄▄▀ ░█▄▄█ ░█▀▀▄ ░█▄▄█ ─░█── ░█▀▀█ ▀▀ ░█░█░█ ░█─░█ 
-░█─── ░█─░█ ░█─░█ ░█▄▄█ ░█─░█ ─░█── ░█─░█ ── ░█──░█ ░█▄▄▀
 
 
-* @project_name PRABATH-MD
-* @authors Prabath Kumara & sachibot-team(Sachintha) <https://github.com/prabathLK>
-* @description The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier
-* @link <https://github.com/prabathLK/PRABATH-MD>
-* @version 2.1.2
 
-© 2023 Prabath Kumara, SACHI-BOT. All rights reserved.
+* @project_name Savannah-MD
+* @authors Giddy Tennor & Rhodvick Tech-team(Accidentallygeniuses) <https://github.com/tennormodz>
+* @description savannah md is here to assist you in all your tasks
+* @link <https://github.com/tennormodz/Savannah->
+* @version 1.1.1
+
+© 2023 Giddy Tennor, Rhodvick-Tech. All rights reserved.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.*/
 
